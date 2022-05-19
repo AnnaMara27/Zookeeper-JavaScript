@@ -1,2 +1,2 @@
 # Zookeeper-JavaScript
-JavaScript project for beginners
+A little JavaScript project for beginners, made with JetBrains Academy
